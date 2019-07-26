@@ -1,0 +1,8 @@
+vendor/
+log/
+
+assets/*
+!assets/index.js
+
+css/*
+!css/index.css
