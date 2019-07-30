@@ -1,8 +1,14 @@
 vendor/
 log/
+./**/*.log
 
 assets/*
 !assets/index.js
 
 css/*
 !css/index.css
+
+.env
+
+protected/runtime/
+./**/*testdrive.db
